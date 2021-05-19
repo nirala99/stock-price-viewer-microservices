@@ -12,6 +12,19 @@ In this Part, we covered the below microservices's
 ## Dockerized Version
 Dockernized version of this project is available at in [master-docker](https://github.com/TechPrimers/stock-price-viewer-microservices-part1/tree/master-docker) branch
 
+## Important Link
+💥Join TechPrimers Slack Community: https://bit.ly/JoinTechPrimers
+💥Telegram: https://t.me/TechPrimers
+💥TechPrimer HindSight (Blog): https://medium.com/TechPrimers
+💥Website: http://techprimers.com
+💥Slack Community: https://techprimers.slack.com
+💥Twitter: https://twitter.com/TechPrimers
+💥Facebook: http://fb.me/TechPrimers
+💥GitHub: https://github.com/TechPrimers or https://techprimers.github.io/
+
+
+
+
 ## Microservices Design Principal
 1. Independent and Autonomous Service<br>
 2. Scalability<br>
