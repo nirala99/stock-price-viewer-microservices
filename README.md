@@ -9,6 +9,8 @@ In this Part, we covered the below microservices's
 ![Architecture 1](/Architecture_1.png)
 ![Architecture 2](/Architecture_2.png)
 
+## Dockerized Version
+Dockernized version of this project is available at in [master-docker](https://github.com/TechPrimers/stock-price-viewer-microservices-part1/tree/master-docker) branch
 
 ## Microservices Design Principal
 1. Independent and Autonomous Service<br>
