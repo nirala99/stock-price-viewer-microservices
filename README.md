@@ -6,5 +6,5 @@ In this Part, we covered the below microservices's
 - `eureka-service` - Service Registry for registering all microservices
 
 ## Architecture Diagram:
-![Architecture]
-![Architecture.png]
+![Architecture_1.png]
+![Architecture_2.png]
