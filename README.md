@@ -13,14 +13,14 @@ In this Part, we covered the below microservices's
 Dockernized version of this project is available at in [master-docker](https://github.com/TechPrimers/stock-price-viewer-microservices-part1/tree/master-docker) branch
 
 ## Important Link
-💥Join TechPrimers Slack Community: https://bit.ly/JoinTechPrimers
-💥Telegram: https://t.me/TechPrimers
-💥TechPrimer HindSight (Blog): https://medium.com/TechPrimers
-💥Website: http://techprimers.com
-💥Slack Community: https://techprimers.slack.com
-💥Twitter: https://twitter.com/TechPrimers
-💥Facebook: http://fb.me/TechPrimers
-💥GitHub: https://github.com/TechPrimers or https://techprimers.github.io/
+💥 Join TechPrimers Slack Community: <https://bit.ly/JoinTechPrimers><br>
+💥 Telegram: <https://t.me/TechPrimers><br>
+💥 TechPrimer HindSight (Blog): <https://medium.com/TechPrimers><br>
+💥 Website: <http://techprimers.com><br>
+💥 Slack Community: <https://techprimers.slack.com><br>
+💥 Twitter: <https://twitter.com/TechPrimers><br>
+💥 Facebook: <http://fb.me/TechPrimers><br>
+💥 GitHub: <https://github.com/TechPrimers> or <https://techprimers.github.io/><br>
 
 
 
