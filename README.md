@@ -7,4 +7,4 @@ In this Part, we covered the below microservices's
 
 ## Architecture Diagram:
 ![Architecture 1](/Architecture_1.png)
-![Architecture_2.png]
+![Architecture 2](/Architecture_2.png)
